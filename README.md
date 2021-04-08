@@ -19,8 +19,7 @@ First clone the repo, then install the dependencies and `surface-distance`
 package via pip:
 
 ```shell
-$ git clone https://github.com/deepmind/surface-distance.git
-$ pip install surface-distance/
+$ pip install git+https://github.com/amrane99/surface-distance
 ```
 
 ## Usage
